@@ -16,3 +16,4 @@ end
 #How you call an instance method, will not work on a class method.
 i = Invoice.new
 i.convert_to_pdf
+#123
