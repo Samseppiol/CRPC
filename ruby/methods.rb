@@ -36,4 +36,4 @@ def stream_movie title:, language:
 end
 
 
-stream_movie title: 'Black Hawk Down', lang: 'English'
+stream_movie title: 'Black Hawk Down', language: 'English'
