@@ -27,6 +27,13 @@ guess = gets.chomp.downcase
 
   #Put in a conditional. .include? is what we use to find the values in an array.
   # In other words if you guess the right letter
+  #This is where the magic happens, basically this if statement is asking
+  # if the sentence array include whatever the users guess is. And if it does
+  # That guess then gets stored in the letter_index.
+  #Then in our sentence array it says wherever that letter is found now puts
+  #an empty string there.
+  #Then finally when final_sentence is run it says where the guess was found,
+  #swap out the empty space and input the users guess.
   if sentence_array.include?(guess)
     letter_index = sentence_array.find_index(guess)
     sentence_array[letter_index] = ""
