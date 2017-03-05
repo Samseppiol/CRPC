@@ -2,6 +2,6 @@
 CRPC
 Comprehensive Ruby Programming Course by Jordan Hudgens on Udemy.
 
-So I changedsome details of the readme file on the
-git web interface. Holy shit did that cause some horrifying problems. I have just spent the last hour attempting to get git push and pull working again. Merged out to a branch, committed the branch then checked out master and merged the branch. Everything now seems to be working. Thankfully I did not put my fist through the monitor.
-10/10 WOULD NOT RECOMMEND
+I have just completed this course on the 5th of March 2017.
+It took me about 8 or 9 days of pretty steady progress. I would highly
+recommend this to anyone trying to learn the basics of ruby.
